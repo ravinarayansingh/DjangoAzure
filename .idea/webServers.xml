@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bbd61076-bfcd-4605-86d6-b88d26f9ceb0" name="http://qtxazureapp.azurewebsites.net/" url="http://qtxazureapp.azurewebsites.net/">
+        <fileTransfer host="http://qtxazureapp.azurewebsites.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
